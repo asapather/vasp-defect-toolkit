@@ -1,0 +1,202 @@
+{
+  "la": {
+    "delta": {"Pb": -1, "La": 1},
+    "charge": 0
+  },
+  "la_cluster": {
+    "delta": {"Pb": -2, "La": 2},
+    "charge": 0
+  },
+  "la_cluster_minus_1": {
+    "delta": {"Pb": -2, "La": 2},
+    "charge": -1
+  },
+  "la_cluster_minus_2": {
+    "delta": {"Pb": -2, "La": 2},
+    "charge": -2
+  },
+  "la_minus_1": {
+    "delta": {"Pb": -1, "La": 1},
+    "charge": -1
+  },
+  "la_minus_2": {
+    "delta": {"Pb": -1, "La": 1},
+    "charge": -2
+  },
+  "la_plus_1": {
+    "delta": {"Pb": -1, "La": 1},
+    "charge": 1
+  },
+  "minus_1": {
+    "delta": {},
+    "charge": -1
+  },
+  "minus_2": {
+    "delta": {},
+    "charge": -2
+  },
+  "mo": {
+    "delta": {"W": -1, "Mo": 1},
+    "charge": 0
+  },
+  "o_added": {
+    "delta": {"O": 1},
+    "charge": 0
+  },
+  "o_added_minus_1": {
+    "delta": {"O": 1},
+    "charge": -1
+  },
+  "o_added_minus_2": {
+    "delta": {"O": 1},
+    "charge": -2
+  },
+  "o_added_plus_1": {
+    "delta": {"O": 1},
+    "charge": 1
+  },
+  "o_minus_1": {
+    "delta": {"O": -1},
+    "charge": -1
+  },
+  "o_minus_2": {
+    "delta": {"O": -1},
+    "charge": -2
+  },
+  "o_neutral": {
+    "delta": {"O": -1},
+    "charge": 0
+  },
+  "o_plus_1": {
+    "delta": {"O": -1},
+    "charge": 1
+  },
+  "o_plus_2": {
+    "delta": {"O": -1},
+    "charge": 2
+  },
+  "o_vacancy_la": {
+    "delta": {"O": -1, "Pb": -1, "La": 1},
+    "charge": 0
+  },
+  "o_vacancy_la_minus_1": {
+    "delta": {"O": -1, "Pb": -1, "La": 1},
+    "charge": -1
+  },
+  "o_vacancy_la_plus_1": {
+    "delta": {"O": -1, "Pb": -1, "La": 1},
+    "charge": 1
+  },
+  "o_vacancy_la_plus_2": {
+    "delta": {"O": -1, "Pb": -1, "La": 1},
+    "charge": 2
+  },
+  "o_vacancy_y": {
+    "delta": {"O": -1, "Pb": -1, "Y": 1},
+    "charge": 0
+  },
+  "o_vacancy_y_minus_1": {
+    "delta": {"O": -1, "Pb": -1, "Y": 1},
+    "charge": -1
+  },
+  "o_vacancy_y_plus_1": {
+    "delta": {"O": -1, "Pb": -1, "Y": 1},
+    "charge": 1
+  },
+  "o_vacancy_y_plus_2": {
+    "delta": {"O": -1, "Pb": -1, "Y": 1},
+    "charge": 2
+  },
+  "pb": {
+    "delta": {"Pb": -1},
+    "charge": 0
+  },
+  "pb_minus_1": {
+    "delta": {"Pb": -1},
+    "charge": -1
+  },
+  "pb_minus_2": {
+    "delta": {"Pb": -1},
+    "charge": -2
+  },
+  "pb_o_f": {
+    "delta": {"Pb": -1, "O": -1},
+    "charge": 0
+  },
+  "pb_o_f_minus_1": {
+    "delta": {"Pb": -1, "O": -1},
+    "charge": -1
+  },
+  "pb_o_f_plus_1": {
+    "delta": {"Pb": -1, "O": -1},
+    "charge": 1
+  },
+  "pb_o_n": {
+    "delta": {"Pb": -1, "O": -1},
+    "charge": 0
+  },
+  "pb_o_n_minus_1": {
+    "delta": {"Pb": -1, "O": -1},
+    "charge": -1
+  },
+  "pb_o_n_plus_1": {
+    "delta": {"Pb": -1, "O": -1},
+    "charge": 1
+  },
+  "pb_plus_1": {
+    "delta": {"Pb": -1},
+    "charge": 1
+  },
+  "plus_1": {
+    "delta": {},
+    "charge": 1
+  },
+  "plus_2": {
+    "delta": {},
+    "charge": 2
+  },
+  "w_vacancy": {
+    "delta": {"W": -1},
+    "charge": 0
+  },
+  "w_vacancy_minus_2": {
+    "delta": {"W": -1},
+    "charge": -2
+  },
+  "w_vacancy_minus_6": {
+    "delta": {"W": -1},
+    "charge": -6
+  },
+  "y": {
+    "delta": {"Pb": -1, "Y": 1},
+    "charge": 0
+  },
+  "y_cluster": {
+    "delta": {"Pb": -2, "Y": 2},
+    "charge": 0
+  },
+  "y_cluster_minus_1": {
+    "delta": {"Pb": -2, "Y": 2},
+    "charge": -1
+  },
+  "y_cluster_minus_2": {
+    "delta": {"Pb": -2, "Y": 2},
+    "charge": -2
+  },
+  "y_minus_1": {
+    "delta": {"Pb": -1, "Y": 1},
+    "charge": -1
+  },
+  "y_minus_2": {
+    "delta": {"Pb": -1, "Y": 1},
+    "charge": -2
+  },
+  "y_plus_1": {
+    "delta": {"Pb": -1, "Y": 1},
+    "charge": 1
+  },
+  "z_no_defect": {
+    "delta": {},
+    "charge": 0
+  }
+}

@@ -168,7 +168,7 @@ for name, spec in defect_data.items():
         shutil.copy(input_root / "KPOINTS", folder / "KPOINTS")
 
         incar = Incar.from_file(folder / "INCAR")
-        nelect = round(get_valence_electrons(structure, folder / "POTCAR")) + spec.get("charge", 0)
+        nelect = round(get_valence_electrons(structure, folder / "POTCAR")) - spec.get("charge", 0)
         incar["NELECT"] = nelect
         incar.write_file(folder / "INCAR")
 

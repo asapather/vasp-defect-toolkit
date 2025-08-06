@@ -46,7 +46,7 @@ def get_total_charge(nelect, poscar, potcar):
                 return "err"
             total += zval_map[symbol] * count
 
-        delta_q = nelect - total
+        delta_q = total - nelect
         if abs(delta_q) < 1e-2:
             delta_q = 0.0
         return f"{delta_q:+.2f}"
